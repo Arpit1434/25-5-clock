@@ -1,0 +1,8 @@
+* {
+  user-select: none;
+}
+
+i {
+  cursor: pointer;
+  color: white;
+}
